@@ -1,4 +1,4 @@
-#Predicting Perpetrators of Terrorist Attacks
+# Predicting Perpetrators of Terrorist Attacks
 
 This mini project uses the global terrorism database (GTD) information on known perpetrators of terrorist attacks, to predict the likely perpetrators for incidents where the group resposinble is not known.
 
